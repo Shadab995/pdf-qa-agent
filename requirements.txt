@@ -1,0 +1,7 @@
+llama-index-core>=0.14
+llama-index-llms-anthropic>=0.10
+llama-index-embeddings-huggingface>=0.6
+llama-index-readers-file>=0.5
+pypdf>=5.0
+python-dotenv>=1.0
+streamlit>=1.40
